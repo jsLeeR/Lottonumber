@@ -3,7 +3,7 @@
 ## 한국어
 
 <details>
-    <summary> -기능설명</summary>
+    <summary><strong style="font-size:20px;"> -기능설명</strong></summary>
 
 1.번호 제외 기능 (40개 이상 입력시 재입력 기능)
 
