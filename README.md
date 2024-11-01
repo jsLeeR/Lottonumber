@@ -3,7 +3,7 @@
 ## 한국어
 
 <details>
-    <summary><strong style="font-size:20px;"> -기능설명</strong></summary>
+    <summary><strong style="font-size:28px;"> -기능설명</strong></summary>
 
 1.번호 제외 기능 (40개 이상 입력시 재입력 기능)
 
@@ -18,14 +18,14 @@
 </details>
 
 <details>
-    <summary> -UML</summary>
+    <summary><strong style="font-size:28px;"> -UML</strong></summary>
 
 ![Lottoclassdiagram](https://github.com/user-attachments/assets/0604266c-bb35-4a5a-a243-2254ec0c9a96)
 
 </details>
 
 <details>
-    <summary> -기능구현</summary>
+    <summary><strong style="font-size:28px;"> -기능구현</strong></summary>
 
 실행시 제외할 번호를 입력
 ![스크린샷 2024-10-30 171843](https://github.com/user-attachments/assets/ac2fab49-c025-4bb8-90cc-764f87c277ce)
@@ -55,7 +55,7 @@ data.txt자료와 비교하여 당첨이력이 잇는 번호는 몇회당첨인�
 #### 韓国のロトの場合 1 ～ 45 までの番号中 6 個選ぶ
 
 <details>
-    <summary> -機能説明</summary>
+    <summary><strong style="font-size:28px;"> -機能説明</strong></summary>
 
 1.番号除外機能（40 個以上の番号入力の場合再入力）
 
@@ -70,14 +70,14 @@ data.txt자료와 비교하여 당첨이력이 잇는 번호는 몇회당첨인�
 </details>
 
 <details>
-    <summary> -UML</summary>
+    <summary><strong style="font-size:28px;"> -UML</strong></summary>
 
 ![Lottoclassdiagram](https://github.com/user-attachments/assets/0604266c-bb35-4a5a-a243-2254ec0c9a96)
 
 </details>
 
 <details>
-    <summary> -具現画像</summary>
+    <summary><strong style="font-size:28px;"> -具現画像</strong></summary>
 
 除外する番号入力
 ![스크린샷 2024-10-30 171843](https://github.com/user-attachments/assets/ac2fab49-c025-4bb8-90cc-764f87c277ce)
