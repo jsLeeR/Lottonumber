@@ -1,9 +1,9 @@
 # Lottonumber
 
-<details>
-    <summary>한국어</summary>
+## 한국어
 
-## -기능설명
+<details>
+    <summary> -기능설명</summary>
 
 1.번호 제외 기능 (40개 이상 입력시 재입력 기능)
 
@@ -15,11 +15,17 @@
 
 5.최대 5게임 출력
 
-## -UML
+</details>
+
+<details>
+    <summary> -UML</summary>
 
 ![Lottoclassdiagram](https://github.com/user-attachments/assets/0604266c-bb35-4a5a-a243-2254ec0c9a96)
 
-## -기능구현
+</details>
+
+<details>
+    <summary> -기능구현</summary>
 
 실행시 제외할 번호를 입력
 ![스크린샷 2024-10-30 171843](https://github.com/user-attachments/assets/ac2fab49-c025-4bb8-90cc-764f87c277ce)
@@ -44,11 +50,12 @@ data.txt자료와 비교하여 당첨이력이 잇는 번호는 몇회당첨인�
 
 </details>
 
-#### 日本語
+## 日本語
 
 #### 韓国のロトの場合 1 ～ 45 までの番号を 6 個選ぶ
 
-## -機能説明
+<details>
+    <summary> -機能説明</summary>
 
 1.番号除外機能（40 個以上の番号入力の場合再入力）
 
@@ -60,11 +67,17 @@ data.txt자료와 비교하여 당첨이력이 잇는 번호는 몇회당첨인�
 
 5.最大 5 回分の番号出力
 
-## -UML
+<details>
+
+<details>
+    <summary> -UML</summary>
 
 ![Lottoclassdiagram](https://github.com/user-attachments/assets/0604266c-bb35-4a5a-a243-2254ec0c9a96)
 
-## -具現画像
+<details>
+
+<details>
+    <summary> -具現画像</summary>
 
 除外する番号入力
 ![스크린샷 2024-10-30 171843](https://github.com/user-attachments/assets/ac2fab49-c025-4bb8-90cc-764f87c277ce)
@@ -86,3 +99,5 @@ data.txt の資料と照らし合わせて当選履歴がある番号は何回�
 
 組み合わせられる番号が 5 回以下ならできるだけ出力
 ![스크린샷 2024-10-30 173026](https://github.com/user-attachments/assets/49f86045-4882-4d28-8f21-60540da64ced)
+
+</details>
