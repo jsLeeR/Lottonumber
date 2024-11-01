@@ -1,10 +1,10 @@
+<!-- # Lottonumber
+
 # Lottonumber
 
-#Lottonumber
+#### 한국어
 
-####한국어
-
-##-기능설명
+## -기능설명
 
 1.번호 제외 기능 (40개 이상 입력시 재입력 기능)
 
@@ -16,10 +16,11 @@
 
 5.최대 5게임 출력
 
-##-UML
+## -UML
+
 ![Lottoclassdiagram](https://github.com/user-attachments/assets/0604266c-bb35-4a5a-a243-2254ec0c9a96)
 
-###-기능구현
+## -기능구현
 
 실행시 제외할 번호를 입력
 ![스크린샷 2024-10-30 171843](https://github.com/user-attachments/assets/ac2fab49-c025-4bb8-90cc-764f87c277ce)
@@ -42,11 +43,11 @@ data.txt자료와 비교하여 당첨이력이 잇는 번호는 몇회당첨인�
 조합가능한 게임수가 5회 미만이면 조합 가능한만큼만 출력
 ![스크린샷 2024-10-30 173026](https://github.com/user-attachments/assets/49f86045-4882-4d28-8f21-60540da64ced)
 
-####日本語
+#### 日本語
 
-####韓国のロトの場合 1 ～ 45 までの番号を 6 個選ぶ
+#### 韓国のロトの場合 1 ～ 45 までの番号を 6 個選ぶ
 
-###-機能説明
+## -機能説明
 
 1.番号除外機能（40 個以上の番号入力の場合再入力）
 
@@ -58,10 +59,11 @@ data.txt자료와 비교하여 당첨이력이 잇는 번호는 몇회당첨인�
 
 5.最大 5 回分の番号出力
 
-###-UML
+## -UML
+
 ![Lottoclassdiagram](https://github.com/user-attachments/assets/0604266c-bb35-4a5a-a243-2254ec0c9a96)
 
-###-具現画像
+## -具現画像
 
 除外する番号入力
 ![스크린샷 2024-10-30 171843](https://github.com/user-attachments/assets/ac2fab49-c025-4bb8-90cc-764f87c277ce)
@@ -82,4 +84,74 @@ data.txt の資料と照らし合わせて当選履歴がある番号は何回�
 ![스크린샷 2024-10-30 172629](https://github.com/user-attachments/assets/efd9908e-9982-4a2f-a3cd-dcf3d9a460f4)
 
 組み合わせられる番号が 5 回以下ならできるだけ出力
-![스크린샷 2024-10-30 173026](https://github.com/user-attachments/assets/49f86045-4882-4d28-8f21-60540da64ced)
+![스크린샷 2024-10-30 173026](https://github.com/user-attachments/assets/49f86045-4882-4d28-8f21-60540da64ced) -->
+
+# Lottonumber
+
+<details>
+    <summary>한국어</summary>
+
+    <details>
+        <summary>기능 설명 보기</summary>
+
+        <details>
+            <summary>기능 1: 번호 제외 기능</summary>
+            1.번호 제외 기능 (40개 이상 입력시 재입력 기능)
+        </details>
+
+        <details>
+            <summary>기능 2: 번호 포함 기능</summary>
+            2.번호 포함 기능 (7개 이상 입력시 재입력 기능 (6개 입력시 추첨번호 1게임 출력))
+        </details>
+
+        <details>
+            <summary>기능 3: 잘못된 입력 방지</summary>
+            3.문자, 1~45외의 숫자입력 방지기능 포함
+        </details>
+
+        <details>
+            <summary>기능 4: 당첨 여부 확인</summary>
+            4.추첨된 번호가 당첨이력이 잇을경우 몇회 번호인지 출력
+        </details>
+
+        <details>
+            <summary>기능 5: 최대 5게임 출력</summary>
+            5.최대 5게임 출력
+        </details>
+    </details>
+
+</details>
+
+<details>
+    <summary>日本語</summary>
+
+    <details>
+        <summary>機能説明</summary>
+
+        <details>
+            <summary>機能 1: 番号除外機能</summary>
+            1.番号除外機能（40 個以上の番号入力の場合再入力）
+        </details>
+
+        <details>
+            <summary>機能 2: 必須番号機能</summary>
+            2.必須番号機能（７個以上の番号入力の場合再入力（６個の場合１回分の番号出力））
+        </details>
+
+        <details>
+            <summary>機能 3: 入力エラー防止</summary>
+            3.文字、1 ～ 45 以外の番号入力の場合再入力
+        </details>
+
+        <details>
+            <summary>機能 4: 当選履歴確認</summary>
+            4.出力された番号が当選履歴がある場合、回号を出力
+        </details>
+
+        <details>
+            <summary>機能 5: 最大 5 回分出力</summary>
+            5.最大 5 回分の番号出力
+        </details>
+    </details>
+
+</details>
