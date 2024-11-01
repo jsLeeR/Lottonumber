@@ -67,7 +67,7 @@ data.txt자료와 비교하여 당첨이력이 잇는 번호는 몇회당첨인�
 
 5.最大 5 回分の番号出力
 
-<details>
+</details>
 
 <details>
     <summary> -UML</summary>
