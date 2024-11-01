@@ -74,7 +74,7 @@ data.txt자료와 비교하여 당첨이력이 잇는 번호는 몇회당첨인�
 
 ![Lottoclassdiagram](https://github.com/user-attachments/assets/0604266c-bb35-4a5a-a243-2254ec0c9a96)
 
-<details>
+</details>
 
 <details>
     <summary> -具現画像</summary>
